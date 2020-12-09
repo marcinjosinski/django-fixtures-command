@@ -1,0 +1,4 @@
+django
+mypy
+pytest
+pytest-django
